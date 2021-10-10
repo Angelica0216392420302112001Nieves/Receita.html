@@ -10,6 +10,7 @@ Exercicio
     <p>É uma bebida à base de cereais, pode ser feita com macarrão ou trigo, milho ou sêmola de arroz. O que costumamos consumir na capital, Caracas, é arroz. Existe uma versão com álcool, que é tradicionalmente consumido na região dos Andes
     </p>
   </header>
+<body>
   <div>
     <h4>Acesso Rápido</h4>
     <ul>
@@ -61,4 +62,5 @@ Exercicio
       <iframe width="560" height="315" src="https://www.youtube.com/embed/cgfkTbAsmUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </footer>
   </div>
+  </body>
 </htlm>
